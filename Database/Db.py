@@ -1,0 +1,1 @@
+DATABASE_LOCATION = "Database/Files/sos-confinement.Sqlite"
